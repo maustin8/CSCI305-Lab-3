@@ -1,4 +1,10 @@
-﻿
+/* ATM.cs -version 0.2 - authored by Alex Reid & Max Austin
+ * For use in CSCI305 Fall 2016 Lab #3 - ATM 
+ * 
+ * ATM holds the denominations available in the machine
+ * and makes the determination whether making change for
+ * the amount requested is even possible using isChangePossible()
+ */
 
 
 using System;
@@ -11,7 +17,7 @@ namespace atm
 {
     public class ATM
     {
-        //Denomimations available in the atm
+        //Denomimations available in the atm, initially 0
         private int numFive = 0;
         private int numTen = 0;
         private int numTwenty = 0;
