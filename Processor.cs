@@ -1,5 +1,5 @@
-﻿/* Processes -version 0.1 - authored by Alex Reid & Max Austin
- * For use in CSCI305 Fall 2016 Lab #4 - ATM 
+﻿/* Processor -version 0.2 - authored by Alex Reid & Max Austin
+ * For use in CSCI305 Fall 2016 Lab #3 - ATM 
  * 
  * Processes attempts to process the file gotten from atmDriver
  * and determine the amount of money needed to be dispensed and the 
